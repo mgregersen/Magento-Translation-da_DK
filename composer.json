@@ -1,0 +1,10 @@
+{
+  "name": "tric-solutions/magento-translation-da_dk",
+  "type": "magento-module",
+  "license":"OSL-3.0",
+  "description":"Danish Community Translation",
+  "authors":[],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
